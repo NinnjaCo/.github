@@ -1,10 +1,10 @@
 <h1 align="center">
-    <img src="./logo_white.svg">
+    <img src="./profile/logo_white.svg">
 </h1>
 
 <h2 style="display:flex;align-items:center;gap:1rem">
     Welcome to NinjaCo
-    <img src="./heart.gif" width="50px">
+    <img src="./profile/heart.gif" width="50px">
 </h2>
 
 A company that strives to provide the best educational experience for students that are interested in learning about and developing their skills in the field of software engineering.
@@ -18,10 +18,10 @@ Checkout each repository for more information.
 
 <h2 style="display:flex;align-items:center;gap:1rem">
     Tech Stack
-    <img src="./code.gif" width="50px">
+    <img src="./profile/code.gif" width="50px">
 </h2>
 
-<img src="./tech_stack_banner_transparent.svg">
+<img src="./profile/tech_stack_banner_transparent.svg">
 
 <br />
 <br />
@@ -30,7 +30,7 @@ Checkout each repository for more information.
 
 <h2 style="display:flex;align-items:center;gap:1rem">
     Contributors
-    <img src="./contributor.gif" width="50px">
+    <img src="./profile/contributor.gif" width="50px">
 </h2>
 
 - Ahmad Issa
